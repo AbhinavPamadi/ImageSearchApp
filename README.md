@@ -19,7 +19,7 @@ A simple and elegant web application that allows users to search for stunning im
 
  Project Structure
  
-image-search-app/
+-ImageSearchApp
 -index.html      # Main HTML file (UI structure of the app)
 -style.css       # CSS file (styling and layout)
 -script.js       # JavaScript file (logic, functionality, API calls)
@@ -27,21 +27,19 @@ image-search-app/
 
 To get Started 
 
--Clone the Repository
-
+- Clone the Repository-
 git clone https://github.com/AbhinavPamadi/ImageSearchApp.git
 cd ImageSearchApp
 
-- Get an Unsplash API Key
--Go to Unsplash Developers
--Register an app to obtain your Access Key
+- Get an Unsplash API Key-
+Go to Unsplash Developers.
+Register an app to obtain your Access Key
 
-- Add Your Access Key
+- Add Your Access Key-
 Open script.js and replace the placeholder key:
-
 const accessKey = "YOUR_ACCESS_KEY_HERE";
 
-- Run the App
+- Run the App-
 You can open the index.html file directly in your browser or use a live server extension.
 
 
